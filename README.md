@@ -32,7 +32,7 @@ This is a car rental management app platform I made mostly using Laravel ^7.24
 Clone repo
 
 ```
-git clone https://github.com/muhammadhabibfery/rent-cars.git
+git clone https://github.com/Lucas020119/rent-cars.git
 ```
 
 Install Composer
